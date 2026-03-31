@@ -12,11 +12,11 @@ Este projeto foi criado para facilitar a experiência do cliente em estabelecime
 
 Tecnologias utilizadas
 
-Java 17
-MySQL 5.1.16
-NetBeans 8.2
-JDBC (conexão com banco de dados)
-iText (geração de PDF)
+Java 17 -
+MySQL 5.1.16 -
+NetBeans 8.2 -
+JDBC (conexão com banco de dados) -
+iText (geração de PDF) -
 
 Arquitetura
 
